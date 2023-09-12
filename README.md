@@ -182,11 +182,11 @@ This sequel was commissioned by Arthur Brisbane, editor of the New York Evening 
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars03.png right width=60% caption="Garrett P. Serviss"
 
-## Edison Declines
+## Edison's Objection
 
 .ve-media https://edisondigital.rutgers.edu/iiif/LB059657 right width=80%
 
-Edison declined because, as he later told Serviss, =="“I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.”"=={346,329,426,537} Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
+Edison objected because, as he later told Serviss, =="“I am not literary with a 200 Horsepower imagination like yourself. . . . don’t want a reputation for things I cant do.”"=={346,329,426,537} Edison did, however, agree to allow Serviss to make him the hero of the story in which he  develops weapons and other technology, including spaceships, an anti-gravity machine, and a disintegration ray gun, that enable Earth to launch an invasion and defeat the Martians.
 
 ## Reaction to the First Installment
 
