@@ -300,7 +300,7 @@ Edison elaborated on this idea in a 1910 New York Times interview with Edward Ma
 
 ## A Machine to Communicate with the Dead
 
-A decade later, in interviews that appeared in [Scientific American](https://idigitalmedium.com/wp-content/uploads/2016/11/1920-EDISON-INTERVIEW.pdf)  and [The American Magazine](https://babel.hathitrust.org/cgi/pt?id=coo.31924065598983&view=1up&seq=730), he claimed to be working on an apparatus that could be used by psychic investigators to try to communicate with the dead.
+A decade later, in interviews that appeared in *Scientific American* and *The American Magazine*, he claimed to be working on an apparatus that could be used by psychic investigators to try to communicate with the dead.
 
 “I am not promising communication with those who have passed out of this life. I merely state that I am giving the psychic investigators an apparatus which may help them ln their work, just as optical experts have given the microscope to the medical world. And if this apparatus falls to reveal anything of exceptional interest, I am afraid that I shall have lost all faith in the survival of personality as we know it in this existence.”
 
