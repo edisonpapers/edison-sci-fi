@@ -6,7 +6,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 In the exhibit that follows we explore the ways in which Edison, during his lifetime, speculated about the technological future and inspired others to imagine how science and technology would change society.  The centerpiece of this exhibit is the collaboration between Edison and journalist George Parsons Lathrop on a novel of the future in the style of Edward Bellamy’s Looking Backward.  It also examines serious and satirical fiction  in which Edison appears as a protaganist and dime novels known as Edisonades.  It concludes by looking at Edison’s own speculations about the future that appeared in newspaper and journal interviews.
 
-## The Wizard of Menlo Park
+## 1. The Wizard of Menlo Park
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg right width=80%
 
@@ -37,7 +37,7 @@ In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enorm
 
 Although the means by which the fictional Edison employs his phonograph, microphone, electric motors, and even the techniques of mesmerism to create the android has little basis in technological fact, Villiers’s invocation of the famous inventor and his inventions provides a sense of verisimilitude for the fantastic tale that he tells.  In writing his novel, Villiers clearly drew on contemporary newspaper and magazine accounts of the famous inventor to create his fictional Edison, who was already becoming a legendary figure seen as capable of producing any invention and embodying the forces of science and technology that were transforming the modern world.   
 
-## Villers
+## 2. Villiers
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
 
