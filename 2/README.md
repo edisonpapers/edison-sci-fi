@@ -1,3 +1,14 @@
+.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
+
+ - [Home](/)
+    - [Introduction](/introduction)
+    - [Wizard of Menlo Park](/1)
+    - [Section 2](/2)
+    - [Section 3](/3)
+    - [Section 4](/4)
+    - [Section 5](/5)
+    - [Section 6](/6)
+
 ## Looking Backward
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right width=80%
