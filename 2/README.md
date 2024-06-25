@@ -38,7 +38,7 @@ When Lathrop interviewed Edison in 1890 he presented the inventor with some of h
 
 ## Harper's Interview
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop02.jpeg left width=80% 
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop02.jpeg left width=80% caption="Harper's New Monthly Magazine, February 1890"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/SC90012A right width=80%
 
