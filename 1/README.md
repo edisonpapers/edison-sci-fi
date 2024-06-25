@@ -51,4 +51,4 @@ Villiers describes the transformation of Edison from man to myth In the [preface
 
 -----------
 
-#### [Next Page](/2)
+<h4 style="text-align: center;"><a href="/2">Next Page</a></h3> 
