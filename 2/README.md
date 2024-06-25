@@ -80,7 +80,7 @@ Lathrop continued in his efforts to arrange a meeting with Edison but the invent
 
 ## In the Deep of Time
 
-After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, he finally succeeded in having a version of the story serialized by the newspaper and literary syndicate of Irving Bachellor. It was published in four parts under a new name, “In the Deep of Time.”
+After the collaboration on “Progress” for Sidney McClure’s syndicate failed, Lathrop did not abandon the project. At the end of 1896, Lathrop succeeded in having a version of the collaboration serialized by the newspaper and literary syndicate of Irving Bachellor as a four-part story titled “In the Deep of Time.” The title appears to borrow a phrase from Thomas Carlyle’s Past and Present (1843), which uses England’s twelfth-century past to critique its industrial present and future. Lathrop’s story appeared in the Sunday edition of numerous American newspapers between 13 December 1896 and 3 January 1897. It also appeared (with new illustrations and slightly revised text) in the February and May 1897 issues of the English Illustrated Magazine. Lathrop retained other Edison notes that have not been located, two items from which he reproduced as illustrations in the American newspaper version of the story.
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-time01.jpeg left caption="'In the Deep of Time' Introduction" width=60%
 
