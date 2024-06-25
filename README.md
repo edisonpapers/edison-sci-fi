@@ -20,7 +20,7 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 #### "Progress" {href=2}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
+![](https://edison.rutgers.edu/images/exhibits/science-fiction/ex0755.jpg)
 
 #### Edisonades {href=3}
 
