@@ -30,22 +30,22 @@ The Wizard of Menlo Park
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-Menlo Park, New Jersey, 13 July 1885
+"Progress"
 
 #### Section 3 {href=3}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
-Woodside Villa, Boston Harbor, 14 July, 1885
+Edisonades
 
 #### Section 4 {href=4}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
-Woodside Villa, Boston Harbor, 15 July, 1885
+"Edison's Conquest of Mars"
 
 #### Section 5 {href=5}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
-Woodside Villa, Boston Harbor, 16 July, 1885
+Edison's Speculations on the Future
