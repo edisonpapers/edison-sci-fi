@@ -12,7 +12,7 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 
 ## Read H.G. Wells's The War of the Worlds
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png right width=60% caption="The War of the World"
 
 .ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json left seq=8 width=60%
 
