@@ -58,7 +58,7 @@ Edison thought that electrical appliances would also liberate women from housewo
 
 “The housewife of the future will be neither a slave to servants nor herself a drudge. She will give less attention to the home, because the home will need less; she will be rather a domestic engineer than a domestic laborer, with the greatest of all handmaidens, electricity, at her service. This and other mechanical forces will so revolutionize the woman’s world that a large portion of the aggregate of woman’s energy will be conserved for use in broader, more constructive fields.”
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg left width=60% caption="The Woman of the Future, Good Housekeeping, 1912"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA119 right width=60%
 
