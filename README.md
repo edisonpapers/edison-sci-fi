@@ -1,14 +1,10 @@
 .ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
-
- - [Home](/)
-    - [Introduction](/introduction)
+    - [Home](/)
     - [Wizard of Menlo Park](/1)
-    - [Section 2](/2)
-    - [Section 3](/3)
-    - [Section 4](/4)
-    - [Section 5](/5)
-    - [Section 6](/6)
-
+    - ["Progress"](/2)
+    - [Edisonades](/3)
+    - ["Edison's Conquest of Mars"](/4)
+    - [Edison's Speculations on the Future](/5)
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Brianna Leider from the Rutgers Public History Certificate program, and Nicole Wines, who helps the project develop its digital and public humanities outreach.
 
