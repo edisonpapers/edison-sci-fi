@@ -29,8 +29,8 @@ Later in the year the satirical magazine Punch’s Almanack published a series o
 
 .ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
-## Heading
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=80%
+## Decadence of the Wizard of Menlo Park
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=60%
 
 ## Tomorrow's Eve
 
