@@ -1,3 +1,14 @@
+.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
+
+ - [Home](/)
+    - [Introduction](/introduction)
+    - [Wizard of Menlo Park](/1)
+    - [Section 2](/2)
+    - [Section 3](/3)
+    - [Section 4](/4)
+    - [Section 5](/5)
+    - [Section 6](/6)
+
 ## Edison's Speculations on the Future
 
 Besides appearing in and influencing early science fiction, Edison’s own visions of the future appeared in newspaper and magazine interviews. Edison’s earliest speculations concerned future applications off his phonograph inventions that appeared in 1878 and 1888. His first interviews in which he touched on future discoveries were the interviews conducted by George Parsons Lathrop discussed earlier in this exhibit.
