@@ -4,7 +4,7 @@
     - ["Progress"](/2)
     - [Edisonades](/3)
     - ["Edison's Conquest of Mars"](/4)
-    - [Section 5](/5)
+    - [Edison's Speculations on the Future](/5)
 
 # "Edison's Conquest of Mars"
 
