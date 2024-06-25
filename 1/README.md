@@ -14,7 +14,7 @@ Almost as soon as Thomas Edison became famous for his invention of the phonograp
 
 ## Edison as the Wizard
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg left width=60% caption="Wizard of Menlo Park"
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MBSB10500X right seq=3
 
@@ -29,8 +29,8 @@ Later in the year the satirical magazine Punch’s Almanack published a series o
 
 .ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
-## Decadence of the Wizard of Menlo Park
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=60% caption="Puck Magazine, May 5, 1880"
+## Puck Magazine, May 5, 1880
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=60% caption="Decadence of the Wizard of Menlo Park"
 
 ## Tomorrow's Eve
 
