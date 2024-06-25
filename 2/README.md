@@ -1,6 +1,5 @@
 .ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg "A Digital Exhibit" pct:3,23,80,20 center sticky
-
- - [Home](/)
+- [Home](/)
     - [Wizard of Menlo Park](/1)
     - ["Progress"](/2)
     - [Section 3](/3)
