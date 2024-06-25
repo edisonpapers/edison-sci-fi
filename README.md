@@ -28,7 +28,7 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 #### "Edison's Conquest of Mars" {href=4}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+![](https://edison.rutgers.edu/images/exhibits/science-fiction/Edisons%20Conquest%20of%20Mars_serviss.jpg)
 
 #### Edison's Speculations on the Future {href=5}
 
