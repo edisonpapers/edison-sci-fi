@@ -3,7 +3,7 @@
     - [Wizard of Menlo Park](/1)
     - ["Progress"](/2)
     - [Edisonades](/3)
-    - [Section 4](/4)
+    - ["Edison's Conquest of Mars"](/4)
     - [Section 5](/5)
 
 # The Wizard of Menlo Park
