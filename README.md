@@ -32,4 +32,4 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 #### Edison's Speculations on the Future {href=5}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
+![](https://edison.rutgers.edu/images/sci-fi/scifi-future04.jpeg)
