@@ -12,9 +12,9 @@ In 1897, H.G. Wells’s *[The War of the Worlds](https://babel.hathitrust.org/cg
 
 ## Read H.G. Wells's The War of the Worlds
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png left width=40%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars01.png left width=60%
 
-.ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json right seq=8 width=40%
+.ve-media https://iiif.archivelab.org/iiif/warofworlds1898well/manifest.json right seq=8 width=60%
 
 ## Edison's Conquest of Mars
 
