@@ -34,7 +34,7 @@ Later in the year the satirical magazine Punch’s Almanack published a series o
 
 ## Tomorrow's Eve
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow01.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow01.jpeg right width=80% caption="Creating the future Eve"
 
 In 1878 the French writer named Villiers de l’Isle-Adam  was inspired by enormous press attention that was given to Thomas Edison and his newly invented phonograph to write a story he called “L’Andréïde paradoxale d’Edison.”  He subsequently expanded this into a novel entitled  L’Eve future, which was first published in 1886.  In the novel, Edison creates an android—the Eve of the title—that is not only indistinguishable from its human model but even considered a marked improvement upon it.
 
