@@ -42,7 +42,7 @@ Although the means by which the fictional Edison employs his phonograph, microph
 
 ## Villiers
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% 
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow02.jpeg left width=80% caption="Villiers de l’Isle-Adam"
 
 Villiers describes the transformation of Edison from man to myth In the [preface](https://archive.org/details/lvefuture00villuoft/page/ii/mode/2up) to his book:
 
