@@ -59,4 +59,5 @@ Edison expressed his own concerns about the story in a [January 14 telegram](htt
 #### Read Edison's Conquest of Mars
 **LINK**: [Project Gutenberg's Edison's Conquest of Mars, by Garrett Putman Serviss](https://www.gutenberg.org/files/19141/19141-h/19141-h.htm)
 
------  
+-----------
+<h4 style="text-align: center;"><a href="/3">Previous Page</a> | <a href="/5">Next Page</a></h3> 
