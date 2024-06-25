@@ -14,38 +14,22 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 ### Explore the Exhibit {.cards}
 
-#### Introduction {href=introduction}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
-
-Read the Introduction 
-
-#### Section 1 {href=1}
+#### The Wizard of Menlo Park {href=1}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
-The Wizard of Menlo Park
-
-#### Section 2 {href=2}
+#### "Progress" {href=2}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-"Progress"
-
-#### Section 3 {href=3}
+#### Edisonades {href=3}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
-Edisonades
-
-#### Section 4 {href=4}
+#### "Edison's Conquest of Mars" {href=4}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
-"Edison's Conquest of Mars"
-
-#### Section 5 {href=5}
+#### Edison's Speculations on the Future {href=5}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
-
-Edison's Speculations on the Future
