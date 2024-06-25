@@ -30,7 +30,7 @@ Later in the year the satirical magazine Punch’s Almanack published a series o
 .ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
 ## Decadence of the Wizard of Menlo Park
-.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=60% caption="Puck Magazine, May 5, 1880"
 
 ## Tomorrow's Eve
 
