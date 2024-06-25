@@ -2,9 +2,9 @@
     - [Home](/)
     - [Wizard of Menlo Park](/1)
     - ["Progress"](/2)
-    - [Section 3](/3)
-    - [Section 4](/4)
-    - [Section 5](/5)
+    - [Edisonades](/3)
+    - ["Edison's Conquest of Mars"](/4)
+    - [Edison's Speculations on the Future](/5)
 
 # Edison's Speculations on the Future
 
