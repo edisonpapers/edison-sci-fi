@@ -2,7 +2,7 @@
 
  - [Home](/)
     - [Wizard of Menlo Park](/1)
-    - [Section 2](/2)
+    - [Progress](/2)
     - [Section 3](/3)
     - [Section 4](/4)
     - [Section 5](/5)
