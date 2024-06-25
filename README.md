@@ -24,7 +24,7 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 #### Edisonades {href=3}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
+![](https://edison.rutgers.edu/images/exhibits/science-fiction/TAE%20Jr.%20Electric%20Sea%20Spider.jpg)
 
 #### "Edison's Conquest of Mars" {href=4}
 
