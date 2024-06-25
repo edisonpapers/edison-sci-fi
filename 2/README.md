@@ -104,4 +104,4 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 ----------
 
-<h4 style="text-align: center;">[Previous Page](/1) | [Next Page](/3) </h3> 
+<h4 style="text-align: center;"><a href="/1">Previous Page</a> | <a href="/4">Next Page</a></h3> 
