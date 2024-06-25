@@ -1,4 +1,4 @@
-.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg "A Digital Exhibit" pct:3,23,80,20 center sticky
+.ve-header "Edison and Science Fiction" default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg "A Digital Exhibit" center sticky
     - [Home](/)
     - [Wizard of Menlo Park](/1)
     - ["Progress"](/2)
