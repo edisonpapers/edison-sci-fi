@@ -5,7 +5,6 @@
     - [Section 3](/3)
     - [Section 4](/4)
     - [Section 5](/5)
-    - [Section 6](/6)
 
 # "Progress"
 
