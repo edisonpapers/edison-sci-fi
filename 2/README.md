@@ -28,7 +28,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 ## Edison and Lathrop
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop01.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lathrop01.jpeg right width=80% caption="George Parsons Lathrop"
 
 The relationship between George Parsons Lathrop, the journalist/author and Edison, the inventor, began in 1885 when [Lathrop interviewed Edison](https://edisondigital.rutgers.edu/document/SM062045) at his New York laboratory.  He reconnected with Edison again in in late 1887 and early 1888 in connection with the promotion of the inventor’s new wax-cylinder phonograph. In June 1888 Lathrop was involved in the effort to create a company to fund an [amusement phonograph](https://edisondigital.rutgers.edu/document/D8805ADT) and also [proposed a biography of the inventor](https://edisondigital.rutgers.edu/document/D8805ADT) to be published by Samuel Clemens’s publishing company, Charles L. Webster and Co. Neither of these ventures reached fruition but Lathrop continued to propose articles on Edison, finally publishing a new interview with him in the [February 1890 issue of Harper’s New Monthly Magazine](https://edisondigital.rutgers.edu/document/SC90012A).
 
