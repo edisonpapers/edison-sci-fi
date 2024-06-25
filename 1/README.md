@@ -29,6 +29,9 @@ Later in the year the satirical magazine Punch’s Almanack published a series o
 
 .ve-media gh:edisonpapers/media/Telephonoscope/Telephonoscope.jpg right width=60%
 
+## Heading
+.ve-media default:https%3A//edison.rutgers.edu/images/exhibits/science-fiction/Decadence%20of%20the%20Wizard%201880-a.jpg width=80%
+
 ## Tomorrow's Eve
 
 .ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-tomorrow01.jpeg right width=80%
