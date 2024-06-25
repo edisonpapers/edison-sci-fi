@@ -8,7 +8,8 @@
 
 # The Wizard of Menlo Park
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg right width=80% 
+.ve-media https://edisondigital.rutgers.edu/iiif/X128AB1 right width=80% 
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg right 
 
 Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the “[Inventor of the Age](https://edisondigital.rutgers.edu/document/MBSB10561),” capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical [April Fool’s story](https://edisondigital.rutgers.edu/document/MBSB10470X) of Edison’s machine for manufacturing food out of “air, water and common earth.”  
 
