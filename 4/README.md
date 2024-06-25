@@ -39,7 +39,7 @@ The first installment of the story appeared on January 14, but Edison’s estran
 
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/f0f5d2ca1cfc4726b9b8101f173b8d17/original.jpg right width=60% caption="Thomas Alva Edison, Jr."
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars05.jpeg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-mars05.jpeg left width=60% caption="New York Evening Journal, January 14, 1898"
 
 ## Edison's Reaction 
 
