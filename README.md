@@ -16,7 +16,7 @@ In the exhibit that follows we explore the ways in which Edison, during his life
 
 #### The Wizard of Menlo Park {href=1}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
+![](https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard03.jpeg)
 
 #### "Progress" {href=2}
 
