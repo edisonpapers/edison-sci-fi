@@ -12,7 +12,7 @@ In June 1890, George Parsons Lathrop approached Edison with a [proposal from Sam
 
 ## Looking Backward
 
-.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right width=80%
+.ve-media default:https%3A//edison.rutgers.edu/images/sci-fi/scifi-lookingbackward01.jpeg right width=80% caption="Edward Bellamy"
 
 Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t66401k8k&view=1up&seq=1), describes a futuristic society in the year 2000 to which the main character, Julian West, travels from the year 1887. He does this via [suspended animation](http://www.sf-encyclopedia.com/entry/suspended_animation), the major mode of time travel in in early science fiction writings. In the book, West awakes in an America transformed by a non-violent revolution that abolished private property in favor of state ownership, thus eliminating social classes and social ills such as war, poverty, crime, and labor strife.
 
