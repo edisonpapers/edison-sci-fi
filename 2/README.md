@@ -100,9 +100,9 @@ After exploring the future and its many new technologies, Bemis nonetheless was 
 
 ## Read In the Deep of Time
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA109 width=60% left
+.ve-media https://edisondigital.rutgers.edu/iiif/PA109 height=500px left 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA126 width=60% right
+.ve-media https://edisondigital.rutgers.edu/iiif/PA126 height=500px right
 
 ## 
 ----------
