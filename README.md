@@ -6,7 +6,7 @@
     - ["Edison's Conquest of Mars"](/4)
     - [Edison's Speculations on the Future](/5)
 
-This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Brianna Leider from the Rutgers Public History Certificate program, and Nicole Wines, who helps the project develop its digital and public humanities outreach.
+This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Brianna Leider from the Rutgers Public History Certificate program, and Nicole Wines, who helps the project develop its digital and public humanities outreach. A text based, accessible version of this exhibit is available [here](https://edison.rutgers.edu/life-of-edison/edison-science-fiction).
 
 ## Introduction 
 
