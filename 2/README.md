@@ -20,7 +20,7 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 ## Read *Looking Backward*
 
-.ve-media https://iiif.archive.org/iiif/lookingbackward200bell/info.json left width=60% seq=10
+.ve-media https://iiif.archive.org/iiif/lookingbackward200bell/manifest.json left width=60% seq=10
 
 ### Learn More
  
