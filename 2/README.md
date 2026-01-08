@@ -22,8 +22,6 @@ Edward Bellamy’s 1888 novel, [*Looking Backward 2000–1887*](https://babel.ha
 
 .ve-media https://iiif.archive.org/iiif/lookingbackward200bell/manifest.json left width=60% seq=10
 
-TEST
-
 ### Learn More
  
 > Read about the literary response to Bellamy’s book see [Justin Nordstrom, “Looking Backward’s Utopian Sequels: ‘Fictional Dialogues’ in Gilded-Age America,” Utopian Studies 18:2 (2007), pp. 193-22](https://www.jstor.org/stable/20719864)
